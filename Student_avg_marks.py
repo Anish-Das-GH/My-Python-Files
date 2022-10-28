@@ -9,11 +9,34 @@ class Student :
     def Printresults(self):
         self.average = int((self.phy+self.chem+self.math)/3)
         print(self.average)
-
+# Student1
 S1=Student()
 S1.getstudentdetails()
 
 print("Average Result : ")
 S1.Printresults()
 
+# Student 2
+S2=Student()
+S2.getstudentdetails()
+
+print("Average Result : ")
+S2.Printresults()
+
+# Student 3
+
+S3=Student()
+S3.getstudentdetails()
+
+print("Average Result : ")
+S3.Printresults()
+
+
+# Student 4
+
+S4=Student()
+S4.getstudentdetails()
+
+print("Average Result : ")
+S4.Printresults()
 
