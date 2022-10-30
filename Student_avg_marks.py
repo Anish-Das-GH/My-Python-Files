@@ -8,19 +8,20 @@ class Student :
 
     def Printresults(self):
         self.average = int((self.phy+self.chem+self.math)/3)
-        print(self.average)
+        print("Name : ",self.name)
+        print("Average Marks : ",self.average)
 # Student1
 S1=Student()
 S1.getstudentdetails()
 
-print("Average Result : ")
+
 S1.Printresults()
 
 # Student 2
 S2=Student()
 S2.getstudentdetails()
 
-print("Average Result : ")
+
 S2.Printresults()
 
 # Student 3
@@ -28,7 +29,7 @@ S2.Printresults()
 S3=Student()
 S3.getstudentdetails()
 
-print("Average Result : ")
+
 S3.Printresults()
 
 
@@ -37,6 +38,6 @@ S3.Printresults()
 S4=Student()
 S4.getstudentdetails()
 
-print("Average Result : ")
+
 S4.Printresults()
 

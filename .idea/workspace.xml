@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0a5775-2468-49e3-a2d2-279c10353e4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polygon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student_avg_marks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Student_avg_marks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
