@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0a5775-2468-49e3-a2d2-279c10353e4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pandas2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/VS Code/Practice/PY PROJECTS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

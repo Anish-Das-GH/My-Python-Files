@@ -1,17 +1,32 @@
-class circle:
+import numpy as np
 
-    PI = 3.14
+R = int(input("Enter the number of rows:"))
+C = int(input("Enter the number of columns:"))
 
-    def __init__(self,radius):
-        self.radius = radius
 
-    def Circumference(self):
-        return (2*self.PI*self.radius)
-    def Area(self):
-        return (self.PI*self.radius*self.radius)
+matrix = []
+print("Enter the entries rowwise:")
 
-r = float(input("Enter Radius"))
-c1 = circle(r)
+# For user input
+for i in range(R):
+    a = []
+    for j in range(C):
+        a.append(int(input()))
+    matrix.append(a)
 
-print(c1.Area())
-print(c1.Circumference())
+# For printing the matrix
+for i in range(R):
+    for j in range(C):
+        print(matrix[i][j], end=" ")
+
+    print()
+
+for i in range(len(matrix)):
+   # iterate through columns
+   for j in range(len(matrix[0])):
+       result[j][i] = matrix[i][j]
+
+for r in result:
+   print(r)
+
+
